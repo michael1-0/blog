@@ -24,7 +24,7 @@ The effectiveness of AI systems often depends on access to vast amounts of data,
 
 The tension between data utility and privacy protection remains one of the most challenging aspects of responsible AI development.
 
-The Impact on Employment and Society
+## The Impact on Employment and Society
 As AI systems become more capable, we must consider their impact on employment and social structures. While AI will certainly create new jobs, it will also automate many existing ones. How do we ensure a just transition? How do we prepare society for these changes?
 
 The benefits and burdens of AI advancement are not distributed equally across society. We must work to ensure that AI development doesn't exacerbate existing social and economic inequalities.
