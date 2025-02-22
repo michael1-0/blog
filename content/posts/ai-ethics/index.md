@@ -1,7 +1,7 @@
 ---
 title: "AI Ethics"
 description: "Discussion of ethics of AI use and its implications."
-date: 2024-12-01
+date: 2025-02-22
 draft: false
 tags: ["AI", "Ethics", "Future"]
 summary: "Discussion of ethics of AI use and its implications."
