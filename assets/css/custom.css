@@ -1,0 +1,17 @@
+@font-face {
+  font-family: scp;
+  src: url('/fonts/SourceCodePro-Medium.ttf');
+}
+
+html {
+  font-family: scp;
+}
+
+
+* {
+  color: #3f3f37;
+}
+
+.bg-neutral {
+  background-color: #c7c2b3;
+}

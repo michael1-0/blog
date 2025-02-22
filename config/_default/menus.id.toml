@@ -1,0 +1,72 @@
+# -- Main Menu --
+
+[[main]]
+  name = "__ main __"
+  url = "https://michael1-0.github.io/"
+  weight = 6
+
+[[main]]
+  name = "Beranda"
+  pageRef = "/"
+  weight = 8
+
+[[main]]
+  name = "Postingan"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Label"
+  pageRef = "tags"
+  weight = 12
+
+
+#[[main]]
+#  name = "Parent"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 1"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 2"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+#[[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+#[[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
+
+
+# -- Footer Menu --
+
+ [[footer]]
+   name = "Label"
+   pageRef = "tags"
+   weight = 10
+
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
