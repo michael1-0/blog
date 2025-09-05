@@ -11,7 +11,7 @@ Do you truly have control of yourself?
 
 What does it really mean to stay composed, even when emotions surge?
 
-A week ago, I watched the first installment of [Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Movie:_Infinity_Castle) at the cinema.
+A week ago, I watched the first installment of <u>[Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Movie:_Infinity_Castle)</u> at the cinema.
 
 There was this term, **Selfless State**, where the main character needed to tap in, in order to access the **Transparent World**, and generally overcome the villain.
 

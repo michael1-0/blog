@@ -11,7 +11,7 @@ Apakah kamu benar-benar memiliki kendali atas dirimu sendiri?
 
 Apa arti sebenarnya dari tetap tenang, bahkan ketika emosi memuncak?
 
-Seminggu yang lalu, aku menonton bagian pertama dari [Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Movie:_Infinity_Castle) di bioskop.
+Seminggu yang lalu, aku menonton bagian pertama dari <u>[Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Movie:_Infinity_Castle)</u> di bioskop.
 
 Ada istilah **Selfless State**, yang harus dicapai tokoh utama untuk dapat mengakses **Transparent World** dan pada akhirnya mengalahkan sang penjahat.
 
