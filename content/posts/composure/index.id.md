@@ -2,7 +2,7 @@
 title: "Ketenangan"
 description: "Keadaan terkendali."
 date: 2025-09-05
-draft: true
+draft: false
 tags: ["Kehidupan"]
 summary: "Keadaan terkendali."
 ---
